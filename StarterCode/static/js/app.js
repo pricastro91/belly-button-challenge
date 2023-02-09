@@ -50,7 +50,7 @@ function charts(testSubjectID) {
         marker: {
           color: ids,
           size: values,
-          colorscale: "Electric",
+          colorscale: "Picnic",
         },
       };
   
